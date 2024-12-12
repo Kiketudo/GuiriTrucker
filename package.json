@@ -7,8 +7,7 @@
     "ios": "react-native run-ios",
     "lint": "eslint .",
     "start": "react-native start",
-    "test": "jest",
-    "build": "react-scripts build"
+    "test": "jest"
   },
   "dependencies": {
     "@react-native-picker/picker": "^2.10.2",
